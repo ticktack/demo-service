@@ -1,0 +1,1599 @@
+
+2016-03-14 14:02:57
+[INFO]-[Thread: qtp482539870-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:02:57.01] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  333 ms.
+
+2016-03-14 14:03:44
+[INFO]-[Thread: qtp482539870-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:03:44.262] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  13 ms.
+
+2016-03-14 14:03:59
+[INFO]-[Thread: qtp482539870-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:03:58.995] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-14 14:04:57
+[WARN]-[Thread: qtp482539870-29]-[com.jfinal.plugin.ehcache.CacheKit.getOrAddCache()]: Could not find cache config [adm_div_list], using default.
+
+2016-03-14 14:04:58
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:04:57.734] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  342 ms.
+
+2016-03-14 14:05:06
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:05:06.176] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  97 ms.
+
+2016-03-14 14:06:06
+[INFO]-[Thread: qtp482539870-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:06:06.076] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  23 ms.
+
+2016-03-14 14:06:10
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:06:10.464] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  16 ms.
+
+2016-03-14 14:08:59
+[INFO]-[Thread: qtp482539870-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:08:59.136] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 14:18:45
+[INFO]-[Thread: qtp482539870-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:18:45.291] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 14:18:47
+[INFO]-[Thread: qtp482539870-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:18:47.01] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  9 ms.
+
+2016-03-14 14:18:47
+[INFO]-[Thread: qtp482539870-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:18:47.024] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 14:18:47
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:18:47.155] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 14:28:09
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:28:09.185] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 14:28:11
+[INFO]-[Thread: qtp482539870-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:28:11.321] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  8 ms.
+
+2016-03-14 14:28:11
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:28:11.332] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 14:28:11
+[INFO]-[Thread: qtp482539870-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:28:11.609] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 14:28:28
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:28:28.545] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  12 ms.
+
+2016-03-14 14:28:28
+[INFO]-[Thread: qtp482539870-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:28:28.559] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 14:30:14
+[INFO]-[Thread: qtp482539870-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:30:14.253] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 14:30:48
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:30:48.007] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 14:32:31
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:32:31.435] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 14:32:40
+[INFO]-[Thread: qtp482539870-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 14:32:40.979] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 15:02:22
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:02:22.541] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-14 15:03:14
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:03:14.514] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:03:24
+[INFO]-[Thread: qtp482539870-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:03:24.405] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:03:43
+[INFO]-[Thread: qtp482539870-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:03:43.13] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 15:05:03
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:05:03.983] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 15:23:25
+[INFO]-[Thread: qtp482539870-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:23:25.901] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 15:23:48
+[INFO]-[Thread: qtp482539870-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:23:48.197] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 15:25:48
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:25:48.48] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:29:08
+[INFO]-[Thread: qtp482539870-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:29:08.831] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-14 15:29:08
+[INFO]-[Thread: qtp482539870-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:29:08.844] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:31:08
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-14 15:31:08
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-14 15:31:08
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-14 15:31:08
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-14 15:31:08
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-14 15:31:09
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-14 15:31:09
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgfag19fw71q8gizpsez|51e54d36, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgfag19fw71q8gizpsez|51e54d36, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-14 15:31:09
+[WARN]-[Thread: main]-[net.sf.ehcache.config.ConfigurationFactory.parseConfiguration()]: No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/apache-maven-repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+
+2016-03-14 15:31:10
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-14 15:32:28
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:27.929] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  346 ms.
+
+2016-03-14 15:32:41
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:41.421] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  8 ms.
+
+2016-03-14 15:32:41
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:41.434] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 15:32:41
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:41.653] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-14 15:32:48
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:48.327] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-14 15:32:59
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:59.331] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-14 15:32:59
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:59.344] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 15:32:59
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:32:59.54] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 15:33:10
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:33:10.551] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 15:39:02
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:39:02.125] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:39:24
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:39:24.206] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:42:17
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:42:17.659] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 15:42:30
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:42:30.948] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:43:45
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:43:45.098] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:44:14
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:44:14.134] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:46:33
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:46:33.232] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 15:47:13
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:47:13.272] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:47:42
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:47:42.352] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  10 ms.
+
+2016-03-14 15:47:59
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:47:59.199] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:50:28
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:50:28.102] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:51:46
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:51:46.038] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:52:46
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:52:46.693] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-14 15:53:04
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:53:04.475] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:57:13
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:57:13.934] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 15:59:14
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 15:59:14.449] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:01:49
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:01:49.245] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:05:46
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:05:46.257] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-14 16:05:49
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:05:49.809] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-14 16:05:49
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:05:49.822] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:05:50
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:05:50.022] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:10:39
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:10:39.259] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:13:15
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:13:15.322] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:13:22
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:13:22.024] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  1 ms.
+
+2016-03-14 16:13:22
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:13:22.029] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:13:22
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:13:22.233] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:13:25
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:13:25.774] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:15:42
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:15:42.917] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:16:00
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:16:00.641] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:21:30
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:21:30.083] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:22:32
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:22:32.906] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:23:25
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:23:25.378] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:24:34
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:24:34.823] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 16:26:12
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:26:12.301] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:30:54
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:30:54.115] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:49:02
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:02.341] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:49:15
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:15.29] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  49 ms.
+
+2016-03-14 16:49:15
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:15.343] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:49:15
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:15.55] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:49:17
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:17.83] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:49:21
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:21.469] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:49:29
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:49:28.995] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:50:19
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:50:19.059] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:53:49
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:49.588] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-14 16:53:55
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:55.631] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  7 ms.
+
+2016-03-14 16:53:55
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:55.642] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:53:55
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:55.764] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:53:59
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:59.403] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  11 ms.
+
+2016-03-14 16:53:59
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:59.417] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:53:59
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:53:59.586] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:54:01
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:54:01.932] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:55:05
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:55:05.252] Call method BlogRest.edit(), view path '/api/v1_0/blog/edit' , cost  4 ms.
+
+2016-03-14 16:55:07
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:55:07.027] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 16:56:41
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:56:41.688] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 16:56:44
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:56:44.052] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 16:57:07
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:07.345] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  11 ms.
+
+2016-03-14 16:57:07
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:07.358] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:57:07
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:07.487] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:57:09
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:09.838] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-14 16:57:17
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:17.912] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  6 ms.
+
+2016-03-14 16:57:17
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:17.922] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 16:57:18
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:18.049] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:57:46
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:46.256] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 16:57:52
+[WARN]-[Thread: qtp389958277-24]-[com.jfinal.plugin.ehcache.CacheKit.getOrAddCache()]: Could not find cache config [adm_div_list], using default.
+
+2016-03-14 16:57:52
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 16:57:52.19] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  301 ms.
+
+2016-03-14 17:00:52
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:00:52.251] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  143 ms.
+
+2016-03-14 17:00:56
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:00:56.472] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  23 ms.
+
+2016-03-14 17:01:03
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:01:03.795] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  29 ms.
+
+2016-03-14 17:01:31
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:01:31.483] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  9 ms.
+
+2016-03-14 17:02:49
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:02:49.546] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  15 ms.
+
+2016-03-14 17:03:07
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:03:07.591] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  49 ms.
+
+2016-03-14 17:06:04
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:06:04.904] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  49 ms.
+
+2016-03-14 17:09:25
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:09:25.542] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  43 ms.
+
+2016-03-14 17:11:57
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:11:57.756] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  40 ms.
+
+2016-03-14 17:13:46
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:13:46.659] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  12 ms.
+
+2016-03-14 17:14:12
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:14:12.72] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  36 ms.
+
+2016-03-14 17:14:32
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:14:32.555] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  25 ms.
+
+2016-03-14 17:15:38
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:15:38.591] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  12 ms.
+
+2016-03-14 17:15:58
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:15:58.445] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  10 ms.
+
+2016-03-14 17:16:15
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:16:15.203] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  51 ms.
+
+2016-03-14 17:16:28
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:16:28.343] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  11 ms.
+
+2016-03-14 17:16:43
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:16:43.637] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  12 ms.
+
+2016-03-14 17:17:07
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:17:07.45] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  13 ms.
+
+2016-03-14 17:17:36
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:17:36.704] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  9 ms.
+
+2016-03-14 17:19:16
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:19:16.386] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 17:19:57
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:19:57.503] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 17:20:02
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:20:02.619] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  55 ms.
+
+2016-03-14 17:20:06
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:20:06.343] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  13 ms.
+
+2016-03-14 17:20:36
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:20:36.135] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  14 ms.
+
+2016-03-14 17:35:02
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:35:02.247] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 17:35:57
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:35:57.016] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-14 17:35:57
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:35:57.029] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-14 17:35:57
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:35:57.153] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 17:36:04
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:36:04.868] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 17:43:59
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:43:59.496] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 17:50:50
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:50:50.192] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 17:50:51
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:50:51.903] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 17:50:56
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:50:56.675] Call method BlogRest.edit(), view path '/api/v1_0/blog/edit' , cost  3 ms.
+
+2016-03-14 17:51:00
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:51:00.056] Call method BlogRest.update(), view path '/api/v1_0/blog/update' , cost  9 ms.
+
+2016-03-14 17:51:00
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:51:00.068] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-14 17:51:00
+[INFO]-[Thread: qtp389958277-22]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:51:00.24] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 17:51:02
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 17:51:02.722] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 18:09:14
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 18:09:14.934] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 20:42:30
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-14 20:42:30
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-14 20:42:30
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-14 20:42:30
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-14 20:42:31
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-14 20:42:31
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-14 20:42:31
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hge1639fwi65gv18ai7vm|51e54d36, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hge1639fwi65gv18ai7vm|51e54d36, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-14 20:42:31
+[WARN]-[Thread: main]-[net.sf.ehcache.config.ConfigurationFactory.parseConfiguration()]: No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/apache-maven-repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+
+2016-03-14 20:42:32
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-14 20:43:30
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:43:29.667] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  374 ms.
+
+2016-03-14 20:45:50
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:45:49.972] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  47 ms.
+
+2016-03-14 20:45:50
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:45:50.023] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 20:45:50
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:45:50.162] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 20:57:03
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:03.52] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 20:57:12
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:12.623] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 20:57:13
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:13.884] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 20:57:14
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:14.872] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 20:57:17
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:17.632] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 20:57:20
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:20.865] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  9 ms.
+
+2016-03-14 20:57:20
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:20.878] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-14 20:57:21
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:21.106] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-14 20:57:25
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:25.218] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  4 ms.
+
+2016-03-14 20:57:25
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:25.226] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 20:57:25
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:25.394] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 20:57:47
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:57:47.692] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-14 20:58:21
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:58:21.556] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 20:58:31
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 20:58:31.548] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-14 21:50:03
+[INFO]-[Thread: qtp389958277-23]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-14 21:50:03.621] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  10 ms.
+
+2016-03-15 11:09:48
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-15 11:09:49
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-15 11:09:49
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-15 11:09:49
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-15 11:09:49
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-15 11:09:49
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-15 11:09:49
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> z8kflt9fxd5iduolxx11|51e54d36, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> z8kflt9fxd5iduolxx11|51e54d36, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-15 11:09:50
+[WARN]-[Thread: main]-[net.sf.ehcache.config.ConfigurationFactory.parseConfiguration()]: No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/apache-maven-repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+
+2016-03-15 11:09:50
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-15 11:10:25
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:10:25.006] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  410 ms.
+
+2016-03-15 11:14:55
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:14:55.18] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  10 ms.
+
+2016-03-15 11:19:59
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:19:59.047] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 11:20:11
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:20:11.287] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 11:20:13
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:20:13.106] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-15 11:20:14
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:20:14.883] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 11:22:59
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:22:59.078] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  51 ms.
+
+2016-03-15 11:22:59
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:22:59.134] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-15 11:22:59
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:22:59.27] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 11:23:15
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:15.147] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  11 ms.
+
+2016-03-15 11:23:15
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:15.163] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 11:23:15
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:15.308] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 11:23:23
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:23.814] Call method BlogRest.edit(), view path '/api/v1_0/blog/edit' , cost  4 ms.
+
+2016-03-15 11:23:26
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:26.131] Call method BlogRest.update(), view path '/api/v1_0/blog/update' , cost  12 ms.
+
+2016-03-15 11:23:26
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:26.146] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 11:23:26
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:23:26.27] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 11:40:29
+[WARN]-[Thread: qtp389958277-29]-[com.jfinal.plugin.ehcache.CacheKit.getOrAddCache()]: Could not find cache config [adm_div_list], using default.
+
+2016-03-15 11:40:29
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:40:29.346] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  336 ms.
+
+2016-03-15 11:42:15
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:42:15.361] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  101 ms.
+
+2016-03-15 11:43:03
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 11:43:03.605] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 13:59:32
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 13:59:32.926] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:11:00
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:11:00.269] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-15 14:11:28
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:11:28.106] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 14:11:34
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:11:34.04] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:11:35
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:11:35.098] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-15 14:11:36
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:11:36.209] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:11:37
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:11:37.281] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:12:33
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:12:33.983] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:13:15
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:13:15.813] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-15 14:13:25
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:13:25.593] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  8 ms.
+
+2016-03-15 14:13:25
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:13:25.605] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 14:13:25
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:13:25.825] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-15 14:15:29
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:15:29.15] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:15:35
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:15:35.258] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-15 14:15:35
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:15:35.275] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:15:35
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:15:35.508] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:15:47
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:15:47.456] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:21:07
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:21:07.511] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:21:21
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:21:21.104] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-15 14:23:19
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:23:19.839] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:23:21
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:23:21.423] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  8 ms.
+
+2016-03-15 14:23:21
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:23:21.434] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:23:21
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:23:21.681] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:24:51
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:24:51.496] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:24:54
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:24:54.799] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  11 ms.
+
+2016-03-15 14:24:54
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:24:54.814] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:24:54
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:24:54.969] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:27:47
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:27:47.699] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:29:19
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:29:19.406] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:29:59
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:29:59.767] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:32:40
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:32:40.59] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:32:42
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:32:42.166] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-15 14:32:42
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:32:42.181] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:32:42
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:32:42.379] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:32:46
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:32:46.828] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:33:00
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:00.817] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:33:07
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:07.08] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  9 ms.
+
+2016-03-15 14:33:07
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:07.095] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 14:33:07
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:07.279] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:33:09
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:09.416] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:33:12
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:12.621] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:33:20
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:20.756] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  11 ms.
+
+2016-03-15 14:33:20
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:20.771] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 14:33:21
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:20.998] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:33:23
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:33:23.685] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:34:20
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:34:20.381] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:34:24
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:34:24.704] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:34:53
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:34:53.453] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:34:55
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:34:55.812] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:35:48
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:35:48.121] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:36:07
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:36:07.141] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-15 14:36:08
+[INFO]-[Thread: qtp389958277-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:36:08.405] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:36:34
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:36:34.275] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:38:00
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:38:00.847] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-15 14:38:06
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:38:06.055] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:41:01
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:41:01.312] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:41:50
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:41:50.112] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:42:20
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:42:20.181] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:42:43
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:42:43.626] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:42:58
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:42:58.311] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:43:31
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:43:31.198] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-15 14:43:50
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:43:50.361] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:44:08
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:44:08.178] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:44:32
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:44:32.933] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:45:34
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:45:34.715] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 14:52:30
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:52:30.792] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  7 ms.
+
+2016-03-15 14:52:30
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:52:30.802] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-15 14:52:30
+[INFO]-[Thread: qtp389958277-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:52:30.944] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 14:52:40
+[INFO]-[Thread: qtp389958277-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 14:52:40.755] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-15 15:27:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-15 15:27:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-15 15:27:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-15 15:27:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-15 15:27:33
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-15 15:27:33
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-15 15:27:33
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hge35t9fxmcynl1dlbjjo|51e54d36, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hge35t9fxmcynl1dlbjjo|51e54d36, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-15 15:27:34
+[WARN]-[Thread: main]-[net.sf.ehcache.config.ConfigurationFactory.parseConfiguration()]: No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/apache-maven-repository/net/sf/ehcache/ehcache-core/2.6.6/ehcache-core-2.6.6.jar!/ehcache-failsafe.xml
+
+2016-03-15 15:27:34
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-15 15:31:53
+[INFO]-[Thread: qtp389958277-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 15:31:53.001] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  375 ms.
+
+2016-03-15 16:12:53
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 16:12:53.593] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 16:16:48
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 16:16:48.486] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-15 16:22:53
+[INFO]-[Thread: qtp389958277-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 16:22:53.667] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-15 16:22:54
+[INFO]-[Thread: qtp389958277-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-15 16:22:54.854] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-21 13:01:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-21 13:01:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-21 13:01:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-21 13:01:33
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-21 13:01:33
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-21 13:01:34
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-21 13:01:34
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgfag29f161sbtlshphhq|7b1cf43, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgfag29f161sbtlshphhq|7b1cf43, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-21 13:01:35
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-21 13:02:14
+[INFO]-[Thread: qtp911333300-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:14.439] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  329 ms.
+
+2016-03-21 13:02:30
+[INFO]-[Thread: qtp911333300-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:30.539] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  10 ms.
+
+2016-03-21 13:02:30
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:30.555] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  12 ms.
+
+2016-03-21 13:02:30
+[INFO]-[Thread: qtp911333300-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:30.714] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-21 13:02:37
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:37.506] Call method BlogRest.edit(), view path '/api/v1_0/blog/edit' , cost  5 ms.
+
+2016-03-21 13:02:42
+[INFO]-[Thread: qtp911333300-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:42.339] Call method BlogRest.update(), view path '/api/v1_0/blog/update' , cost  40 ms.
+
+2016-03-21 13:02:42
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:42.382] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-21 13:02:42
+[INFO]-[Thread: qtp911333300-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:42.482] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-21 13:02:49
+[INFO]-[Thread: qtp911333300-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:49.316] Call method BlogRest.edit(), view path '/api/v1_0/blog/edit' , cost  4 ms.
+
+2016-03-21 13:02:53
+[INFO]-[Thread: qtp911333300-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:53.088] Call method BlogRest.update(), view path '/api/v1_0/blog/update' , cost  10 ms.
+
+2016-03-21 13:02:53
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:53.102] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-21 13:02:53
+[INFO]-[Thread: qtp911333300-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:02:53.233] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-21 13:03:13
+[INFO]-[Thread: qtp911333300-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:03:13.956] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-21 13:06:35
+[INFO]-[Thread: qtp911333300-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:06:35.633] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-21 13:36:58
+[INFO]-[Thread: qtp911333300-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:36:58.268] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-21 13:36:59
+[INFO]-[Thread: qtp911333300-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:36:59.118] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-21 13:37:01
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:01.345] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-21 13:37:03
+[INFO]-[Thread: qtp911333300-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:03.429] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-21 13:37:05
+[INFO]-[Thread: qtp911333300-24]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:05.378] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-21 13:37:11
+[INFO]-[Thread: qtp911333300-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:11.247] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  9 ms.
+
+2016-03-21 13:37:11
+[INFO]-[Thread: qtp911333300-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:11.261] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-21 13:37:11
+[INFO]-[Thread: qtp911333300-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:11.369] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-21 13:37:20
+[INFO]-[Thread: qtp911333300-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:20.193] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  10 ms.
+
+2016-03-21 13:37:20
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:20.206] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-21 13:37:20
+[INFO]-[Thread: qtp911333300-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:20.309] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-21 13:37:32
+[INFO]-[Thread: qtp911333300-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 13:37:32.623] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-21 19:31:27
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-21 19:31:27
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-21 19:31:27
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-21 19:31:27
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-21 19:31:27
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-21 19:31:27
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-21 19:31:27
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgfag29f16fpqc514phh4j|48008b9e, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgfag29f16fpqc514phh4j|48008b9e, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-21 19:31:28
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-21 19:31:41
+[INFO]-[Thread: qtp188046270-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-21 19:31:41.115] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  327 ms.
+
+2016-03-23 16:01:09
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-23 16:01:10
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-23 16:01:10
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-23 16:01:10
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-23 16:01:10
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-23 16:01:10
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-23 16:01:10
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgfag39f1933083153u0ke|48008b9e, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgfag39f1933083153u0ke|48008b9e, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-23 16:01:11
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-23 16:01:28
+[INFO]-[Thread: qtp188046270-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-23 16:01:28.573] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  310 ms.
+
+2016-03-23 16:02:17
+[INFO]-[Thread: qtp188046270-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-23 16:02:17.827] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  12 ms.
+
+2016-03-23 16:10:00
+[INFO]-[Thread: qtp188046270-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-23 16:09:59.995] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-23 16:10:39
+[INFO]-[Thread: qtp188046270-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-23 16:10:39.025] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  40 ms.
+
+2016-03-23 16:10:57
+[INFO]-[Thread: qtp188046270-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-23 16:10:57.037] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  10 ms.
+
+2016-03-23 16:11:12
+[INFO]-[Thread: qtp188046270-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-23 16:11:12.695] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 15:54:04
+[ERROR]-[Thread: main]-[com.jfinal.kit.LogKit.error()]: class "javax.servlet.HttpConstraintElement"'s signer information does not match signer information of other classes in the same package
+java.lang.SecurityException: class "javax.servlet.HttpConstraintElement"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(ClassLoader.java:952)
+	at java.lang.ClassLoader.preDefineClass(ClassLoader.java:666)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:794)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at com.jfinal.server.JettyServer.doStart(JettyServer.java:88)
+	at com.jfinal.server.JettyServer.start(JettyServer.java:65)
+	at com.jfinal.core.JFinal.start(JFinal.java:154)
+	at com.demo.app.ServiceApp.main(ServiceApp.java:82)
+
+2016-03-24 15:58:26
+[ERROR]-[Thread: main]-[com.jfinal.kit.LogKit.error()]: class "javax.servlet.HttpConstraintElement"'s signer information does not match signer information of other classes in the same package
+java.lang.SecurityException: class "javax.servlet.HttpConstraintElement"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(ClassLoader.java:952)
+	at java.lang.ClassLoader.preDefineClass(ClassLoader.java:666)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:794)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at com.jfinal.server.JettyServer.doStart(JettyServer.java:88)
+	at com.jfinal.server.JettyServer.start(JettyServer.java:65)
+	at com.jfinal.core.JFinal.start(JFinal.java:154)
+	at com.demo.app.ServiceApp.main(ServiceApp.java:82)
+
+2016-03-24 16:15:40
+[ERROR]-[Thread: main]-[com.jfinal.kit.LogKit.error()]: class "javax.servlet.HttpConstraintElement"'s signer information does not match signer information of other classes in the same package
+java.lang.SecurityException: class "javax.servlet.HttpConstraintElement"'s signer information does not match signer information of other classes in the same package
+	at java.lang.ClassLoader.checkCerts(ClassLoader.java:952)
+	at java.lang.ClassLoader.preDefineClass(ClassLoader.java:666)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:794)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at com.jfinal.server.JettyServer.doStart(JettyServer.java:88)
+	at com.jfinal.server.JettyServer.start(JettyServer.java:65)
+	at com.jfinal.core.JFinal.start(JFinal.java:154)
+	at com.demo.app.ServiceApp.main(ServiceApp.java:82)
+
+2016-03-24 16:19:28
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-24 16:19:29
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-24 16:19:29
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 16:19:29
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 16:19:29
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-24 16:19:29
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-24 16:19:29
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hgfag39f1aj6evmky4ddw|1bce5700, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hgfag39f1aj6evmky4ddw|1bce5700, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-24 16:19:30
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-24 16:20:50
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:20:50.533] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  385 ms.
+
+2016-03-24 16:21:37
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:21:37.39] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  12 ms.
+
+2016-03-24 16:31:01
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:01.036] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-24 16:31:01
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:01.893] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-24 16:31:02
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:02.805] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-24 16:31:08
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:08.042] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  46 ms.
+
+2016-03-24 16:31:08
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:08.091] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 16:31:08
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:08.246] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 16:31:12
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:12.073] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  11 ms.
+
+2016-03-24 16:31:14
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:14.266] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 16:31:16
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:16.916] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 16:31:20
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:20.019] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 16:31:23
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:23.441] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 16:31:24
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:24.646] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 16:31:25
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:25.883] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 16:31:28
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 16:31:28.797] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 17:20:51
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 17:20:51.68] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  12 ms.
+
+2016-03-24 18:04:31
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 18:04:31.174] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 18:04:36
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 18:04:36.472] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 18:04:37
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 18:04:37.854] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 18:04:38
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 18:04:38.904] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  3 ms.
+
+2016-03-24 18:04:42
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 18:04:42.012] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:12:08
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:08.217] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  7 ms.
+
+2016-03-24 19:12:08
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:08.226] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:12:08
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:08.396] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:12:11
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:11.132] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  6 ms.
+
+2016-03-24 19:12:11
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:11.143] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:12:11
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:11.309] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:12:12
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:12.979] Call method BlogRest.edit(), view path '/api/v1_0/blog/edit' , cost  3 ms.
+
+2016-03-24 19:12:15
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:15.399] Call method BlogRest.update(), view path '/api/v1_0/blog/update' , cost  13 ms.
+
+2016-03-24 19:12:15
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:15.414] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 19:12:15
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:12:15.561] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-24 19:15:31
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:15:31.249] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 19:15:32
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:15:32.13] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 19:15:33
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:15:33.191] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 19:22:45
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:22:45.68] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:44:30
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:30.029] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 19:44:31
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:31.835] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  5 ms.
+
+2016-03-24 19:44:31
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:31.847] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  9 ms.
+
+2016-03-24 19:44:32
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:32.057] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:44:32
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:32.636] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  4 ms.
+
+2016-03-24 19:44:32
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:32.643] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 19:44:32
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:32.826] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  13 ms.
+
+2016-03-24 19:44:33
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:33.273] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  8 ms.
+
+2016-03-24 19:44:33
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:33.284] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 19:44:33
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:33.469] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:44:33
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:33.924] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  6 ms.
+
+2016-03-24 19:44:33
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:33.934] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:44:34
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:34.114] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:44:34
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:34.482] Call method BlogRest.delete(), view path '/api/v1_0/blog/delete' , cost  9 ms.
+
+2016-03-24 19:44:34
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:34.495] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 19:44:34
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:34.714] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:44:44
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:44.785] Call method BlogRest.save(), view path '/api/v1_0/blog/save' , cost  7 ms.
+
+2016-03-24 19:44:44
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:44.796] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:44:44
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:44.98] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:44:47
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:44:47.241] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-24 19:45:20
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:45:20.314] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  10 ms.
+
+2016-03-24 19:45:23
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:45:23.1] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  13 ms.
+
+2016-03-24 19:45:29
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:45:29.517] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:45:45
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:45:45.192] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:46:12
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:46:12.259] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:46:27
+[INFO]-[Thread: qtp1545215153-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:46:27.611] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 19:46:34
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:46:34.56] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:53:53
+[INFO]-[Thread: qtp1545215153-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:53:53.667] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 19:55:01
+[INFO]-[Thread: qtp1545215153-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:55:01.796] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  4 ms.
+
+2016-03-24 19:55:17
+[INFO]-[Thread: qtp1545215153-30]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:55:17.616] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:55:36
+[INFO]-[Thread: qtp1545215153-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:55:36.206] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 19:57:55
+[INFO]-[Thread: qtp1545215153-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 19:57:55.94] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  6 ms.
+
+2016-03-24 20:55:55
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.Server.doStart()]: jetty-8.1.8.v20121106
+
+2016-03-24 20:55:55
+[INFO]-[Thread: main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-24 20:55:55
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 20:55:55
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 20:55:55
+[INFO]-[Thread: MLog-Init-Reporter]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: MLog clients using slf4j logging.
+
+2016-03-24 20:55:55
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0-0.9.5.1 [built 16-June-2015 00:06:36 -0700; debug? true; trace: 10]
+
+2016-03-24 20:55:56
+[INFO]-[Thread: main]-[com.mchange.v2.log.slf4j.Slf4jMLog$Slf4jMLogger$InfoLogger.log()]: Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 2, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hge1639f1at1wztxju10y|6bed037a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hge1639f1at1wztxju10y|6bed037a, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1/jfinal_demo?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 10, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+
+2016-03-24 20:55:56
+[INFO]-[Thread: main]-[org.eclipse.jetty.server.AbstractConnector.doStart()]: Started SelectChannelConnector@0.0.0.0:8080
+
+2016-03-24 20:57:52
+[INFO]-[Thread: qtp1067751394-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 20:57:51.821] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  317 ms.
+
+2016-03-24 20:58:12
+[INFO]-[Thread: qtp1067751394-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 20:58:12.932] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  10 ms.
+
+2016-03-24 21:00:23
+[WARN]-[Thread: qtp1067751394-28]-[com.jfinal.plugin.ehcache.CacheKit.getOrAddCache()]: Could not find cache config [adm_div_list], using default.
+
+2016-03-24 21:00:23
+[INFO]-[Thread: qtp1067751394-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:00:23.395] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  285 ms.
+
+2016-03-24 21:09:45
+[INFO]-[Thread: qtp1067751394-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:09:45.757] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  197 ms.
+
+2016-03-24 21:15:12
+[INFO]-[Thread: qtp1067751394-28]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:15:12.217] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  48 ms.
+
+2016-03-24 21:15:12
+[INFO]-[Thread: qtp1067751394-25]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:15:12.672] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  45 ms.
+
+2016-03-24 21:17:48
+[INFO]-[Thread: qtp1067751394-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:17:48.808] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  8 ms.
+
+2016-03-24 21:17:51
+[INFO]-[Thread: qtp1067751394-26]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:17:51.152] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  7 ms.
+
+2016-03-24 21:19:17
+[INFO]-[Thread: qtp1067751394-27]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:19:17.504] Call method BlogRest.index(), view path '/api/v1_0/blog' , cost  5 ms.
+
+2016-03-24 21:20:26
+[INFO]-[Thread: qtp1067751394-29]-[org.kungfu.core.Interceptor.intercept()]: [2016-03-24 21:20:26.355] Call method AdtAdmDivRest.list(), view path '/api/v1_0/admdiv/list' , cost  50 ms.
+
+2016-03-24 21:25:53
+[INFO]-[Thread: JFinal-Scanner]-[org.eclipse.jetty.server.handler.ContextHandler.doStop()]: stopped o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 21:25:53
+[INFO]-[Thread: JFinal-Scanner]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor.visitServlet()]: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+
+2016-03-24 21:25:53
+[INFO]-[Thread: JFinal-Scanner]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 21:25:53
+[INFO]-[Thread: JFinal-Scanner]-[org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized()]: started o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}
+
+2016-03-24 21:25:54
+[WARN]-[Thread: JFinal-Scanner]-[org.eclipse.jetty.util.component.AbstractLifeCycle.setFailed()]: FAILED jfinal: java.lang.Error: Unresolved compilation problems: 
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.core.JFinal cannot be resolved
+	The import com.jfinal.ext cannot be resolved
+	The import com.jfinal.json cannot be resolved
+	The import com.jfinal.kit cannot be resolved
+	The import com.jfinal.plugin.activerecord.ActiveRecordPlugin cannot be resolved
+	The import com.jfinal.plugin.c3p0 cannot be resolved
+	The import com.jfinal.plugin.ehcache cannot be resolved
+	JFinalConfig cannot be resolved to a type
+	Constants cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	JacksonFactory cannot be resolved to a type
+	Routes cannot be resolved to a type
+	Plugins cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	ActiveRecordPlugin cannot be resolved to a type
+	ActiveRecordPlugin cannot be resolved to a type
+	EhCachePlugin cannot be resolved to a type
+	Interceptors cannot be resolved to a type
+	SessionInViewInterceptor cannot be resolved to a type
+	Handlers cannot be resolved to a type
+	JFinal cannot be resolved
+
+java.lang.Error: Unresolved compilation problems: 
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.core.JFinal cannot be resolved
+	The import com.jfinal.ext cannot be resolved
+	The import com.jfinal.json cannot be resolved
+	The import com.jfinal.kit cannot be resolved
+	The import com.jfinal.plugin.activerecord.ActiveRecordPlugin cannot be resolved
+	The import com.jfinal.plugin.c3p0 cannot be resolved
+	The import com.jfinal.plugin.ehcache cannot be resolved
+	JFinalConfig cannot be resolved to a type
+	Constants cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	JacksonFactory cannot be resolved to a type
+	Routes cannot be resolved to a type
+	Plugins cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	ActiveRecordPlugin cannot be resolved to a type
+	ActiveRecordPlugin cannot be resolved to a type
+	EhCachePlugin cannot be resolved to a type
+	Interceptors cannot be resolved to a type
+	SessionInViewInterceptor cannot be resolved to a type
+	Handlers cannot be resolved to a type
+	JFinal cannot be resolved
+
+	at com.demo.app.ServiceApp.<init>(ServiceApp.java:7)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at java.lang.Class.newInstance(Class.java:374)
+	at com.jfinal.core.JFinalFilter.createJFinalConfig(JFinalFilter.java:96)
+	at com.jfinal.core.JFinalFilter.init(JFinalFilter.java:47)
+	at org.eclipse.jetty.servlet.FilterHolder.doStart(FilterHolder.java:119)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:724)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:265)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:706)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.jfinal.server.JettyServer$1.onChange(JettyServer.java:108)
+	at com.jfinal.server.Scanner.compare(Scanner.java:88)
+	at com.jfinal.server.Scanner.working(Scanner.java:57)
+	at com.jfinal.server.Scanner.access$000(Scanner.java:31)
+	at com.jfinal.server.Scanner$1.run(Scanner.java:94)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+
+2016-03-24 21:25:54
+[WARN]-[Thread: JFinal-Scanner]-[org.eclipse.jetty.util.component.AbstractLifeCycle.setFailed()]: FAILED o.e.j.w.WebAppContext{/,file:/D:/chisha-workplace/demo-service/src/main/webapp/}: java.lang.Error: Unresolved compilation problems: 
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.core.JFinal cannot be resolved
+	The import com.jfinal.ext cannot be resolved
+	The import com.jfinal.json cannot be resolved
+	The import com.jfinal.kit cannot be resolved
+	The import com.jfinal.plugin.activerecord.ActiveRecordPlugin cannot be resolved
+	The import com.jfinal.plugin.c3p0 cannot be resolved
+	The import com.jfinal.plugin.ehcache cannot be resolved
+	JFinalConfig cannot be resolved to a type
+	Constants cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	JacksonFactory cannot be resolved to a type
+	Routes cannot be resolved to a type
+	Plugins cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	ActiveRecordPlugin cannot be resolved to a type
+	ActiveRecordPlugin cannot be resolved to a type
+	EhCachePlugin cannot be resolved to a type
+	Interceptors cannot be resolved to a type
+	SessionInViewInterceptor cannot be resolved to a type
+	Handlers cannot be resolved to a type
+	JFinal cannot be resolved
+
+java.lang.Error: Unresolved compilation problems: 
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.config cannot be resolved
+	The import com.jfinal.core.JFinal cannot be resolved
+	The import com.jfinal.ext cannot be resolved
+	The import com.jfinal.json cannot be resolved
+	The import com.jfinal.kit cannot be resolved
+	The import com.jfinal.plugin.activerecord.ActiveRecordPlugin cannot be resolved
+	The import com.jfinal.plugin.c3p0 cannot be resolved
+	The import com.jfinal.plugin.ehcache cannot be resolved
+	JFinalConfig cannot be resolved to a type
+	Constants cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	JacksonFactory cannot be resolved to a type
+	Routes cannot be resolved to a type
+	Plugins cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	C3p0Plugin cannot be resolved to a type
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	PropKit cannot be resolved
+	ActiveRecordPlugin cannot be resolved to a type
+	ActiveRecordPlugin cannot be resolved to a type
+	EhCachePlugin cannot be resolved to a type
+	Interceptors cannot be resolved to a type
+	SessionInViewInterceptor cannot be resolved to a type
+	Handlers cannot be resolved to a type
+	JFinal cannot be resolved
+
+	at com.demo.app.ServiceApp.<init>(ServiceApp.java:7)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at java.lang.Class.newInstance(Class.java:374)
+	at com.jfinal.core.JFinalFilter.createJFinalConfig(JFinalFilter.java:96)
+	at com.jfinal.core.JFinalFilter.init(JFinalFilter.java:47)
+	at org.eclipse.jetty.servlet.FilterHolder.doStart(FilterHolder.java:119)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:724)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:265)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:706)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.jfinal.server.JettyServer$1.onChange(JettyServer.java:108)
+	at com.jfinal.server.Scanner.compare(Scanner.java:88)
+	at com.jfinal.server.Scanner.working(Scanner.java:57)
+	at com.jfinal.server.Scanner.access$000(Scanner.java:31)
+	at com.jfinal.server.Scanner$1.run(Scanner.java:94)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
